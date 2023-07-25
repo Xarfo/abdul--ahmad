@@ -8,7 +8,7 @@ export default function About(props) {
         var bio = props.data.bio;
         var city = props.data.address.city;
         var email = props.data.email;
-        var resumeDownload = props.data.resumedownload;
+        var resumeDownload = props.data.resumeDownload;
     }
 
     return (
