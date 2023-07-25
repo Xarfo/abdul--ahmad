@@ -3,7 +3,7 @@ import React from 'react';
 export default function Resume(props) {
 
     if (props.data) {
-        var skillmessage = props.data.skillmessage;
+        var skillMessage = props.data.skillMessage;
 
         var skills = props.data.skills.map((skills) => {
             var className = 'bar-expand ' + skills.name.toLowerCase();
@@ -23,7 +23,7 @@ export default function Resume(props) {
                 </div>
 
                 <div className="nine columns main-col">
-                    <p>{skillmessage}</p>
+                    <p>{skillMessage}</p>
                     <div className="bars">
                         <ul className="skills">
                             {skills}

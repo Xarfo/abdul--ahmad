@@ -1,23 +1,11 @@
 import React from 'react';
 import ParticlesBg from "particles-bg";
 
-/**
- * 
- * If you want to remove the animation from header, you just need to remove de ParticlesBg component. 
- * If you want to change the type of animation, check this documentation alll types availables: https://github.com/lindelof/particles-bg
- */
-
 export default function Header(props) {
     
     if (props.data) {
-        // var project = props.data.project;
-        // var github = props.data.github;
         var name = props.data.name;
         var description = props.data.description;
-        // var city = props.data.address.city;
-        // var networks = props.data.social.map(function (network) {
-        //     return <li key={network.name}><a href={network.url}><i className={network.className}></i></a></li>
-        // })
     }
 
     return (
