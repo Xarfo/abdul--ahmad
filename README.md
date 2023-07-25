@@ -12,12 +12,12 @@
 
 - [React](https://reactjs.org/) ![React](https://img.shields.io/badge/react-v16.7.0--alpha.2-blue.svg)
 - [Material-UI](https://material-ui.com/)
-#### Front end deployed to Netlify
+### Front end deployed to Netlify
 [![Netlify Status](https://64543572be49bf22c4b39966--sparkling-pudding-e7f929.netlify.app/)
-# Licenses
+### Licenses
 
 ![MIT](https://img.shields.io/packagist/l/doctrine/orm.svg) MIT © 2023 Abdul Ahmad's portfolio
-# Installation Instructions
+### Installation Instructions
 
 ```sh
 npm start
