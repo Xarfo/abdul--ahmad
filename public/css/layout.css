@@ -1113,6 +1113,7 @@ footer .copyright li {
     margin: 0;
     padding: 0;
     line-height: 24px;
+    color:#525252;
 }
 .ie footer .copyright li {
    display: inline;
