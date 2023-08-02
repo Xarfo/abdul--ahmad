@@ -10,8 +10,8 @@
         "address": {
             "city": "Washington DC"
         },
-        "website": "http://creddle.io//",
-        "resumedownload": "https://resume.creddle.io/resume/7l4x7ufgkib/",
+        "website": "https://flowcv.com/",
+        "resumedownload": "https://flowcv.com/resume/siitc4iv2g",
         "social": [
             {
                 "name": "twitter",
@@ -132,14 +132,20 @@
     "portfolio": {
         "projects": [
             {
+                "title": "Visible Gridwall",
+                "category": "Dynamic grid view layout in Product Page",
+                "image": "project0.jpg",
+                "url": "https://www.visible.com/shop/smartphones"
+            },
+            {
                 "title": "Spotlight",
-                "category": "Spotlight is your one-stop-shop for comprehensive training, insights and recommendations to uncover new sales opportunities.",
+                "category": "Spotlight is your one-stop-shop for comprehensive training & insights",
                 "image": "project1.jpg",
                 "url": "https://spotlight.asurion.com/"
             },
             {
                 "title": "School in the Cloud",
-                "category": "School in the Cloud is a platform that trains senior volunteers to teach students in a group or individual setting.",
+                "category": "School in the Cloud is a platform that connects mentors & mentees",
                 "image": "project3.jpg",
                 "url": "https://github.com/labs13-school-cloud?type=source"
             },
@@ -148,12 +154,6 @@
                 "category": "Guidr helps back-country guides with logging their professional trips",
                 "image": "project2.jpg",
                 "url": "https://github.com/lsbw-guidr/Front-End-React"
-            },
-            {
-                "title": "Gryffindor Project",
-                "category": "Magic Nagini bezoar, Hippogriffs Headless Hunt giant squid petrified.",
-                "image": "project4.jpg",
-                "url": "http://www.smirkspace.com"
             }
         ]
     }
